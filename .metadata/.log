@@ -1,0 +1,355 @@
+!SESSION 2021-04-23 16:58:10.813 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=15.0.1+9
+JRE 15 Windows 8 amd64-64-Bit Compressed References 20201022_82 (JIT enabled, AOT enabled)
+OpenJ9   - 0394ef754
+OMR      - 582366ae5
+JCL      - ad583de3b5 based on jdk-15.0.1+9
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -clean -clean -clean -data C:\Users\Ryan\servoy_workspace\final_proj -clean
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-23 16:58:27.147
+!MESSAGE Designtime documentation initialized successfully in 218 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-23 16:58:28.049
+!MESSAGE Documentation loaded successfully. 165 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-23 16:58:28.066
+!MESSAGE Documentation loaded and registered in 184 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-23 16:58:28.266
+!MESSAGE Loaded 57 method templates.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-23 16:58:28.321
+!MESSAGE Documentation loaded successfully. 3 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-23 16:58:28.329
+!MESSAGE Documentation loaded and registered in 9 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-23 16:58:28.339
+!MESSAGE Documentation loaded successfully. 1 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-23 16:58:28.353
+!MESSAGE Documentation loaded and registered in 15 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-23 16:58:28.413
+!MESSAGE Documentation loaded successfully. 3 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-23 16:58:28.419
+!MESSAGE Documentation loaded and registered in 8 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-23 16:58:28.447
+!MESSAGE Documentation loaded successfully. 3 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-23 16:58:28.454
+!MESSAGE Documentation loaded and registered in 8 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-23 16:58:28.480
+!MESSAGE Documentation loaded successfully. 0 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-23 16:58:28.504
+!MESSAGE Documentation loaded and registered in 19 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-23 16:58:28.513
+!MESSAGE Documentation loaded successfully. 0 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-23 16:58:28.522
+!MESSAGE Documentation loaded and registered in 9 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-23 16:58:28.574
+!MESSAGE Documentation loaded successfully. 1 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-23 16:58:28.579
+!MESSAGE Documentation loaded and registered in 6 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-23 16:58:28.599
+!MESSAGE Documentation loaded successfully. 1 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-23 16:58:28.604
+!MESSAGE Documentation loaded and registered in 9 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-23 16:58:28.640
+!MESSAGE Documentation loaded successfully. 3 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-23 16:58:28.646
+!MESSAGE Documentation loaded and registered in 9 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-23 16:58:28.656
+!MESSAGE Documentation loaded successfully. 2 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-23 16:58:28.661
+!MESSAGE Documentation loaded and registered in 6 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-23 16:58:28.712
+!MESSAGE Documentation loaded successfully. 14 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-23 16:58:28.716
+!MESSAGE Documentation loaded and registered in 17 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-23 16:58:28.729
+!MESSAGE Documentation loaded successfully. 2 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-23 16:58:28.732
+!MESSAGE Documentation loaded and registered in 10 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-23 16:58:28.739
+!MESSAGE Documentation loaded successfully. 1 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-23 16:58:28.745
+!MESSAGE Documentation loaded and registered in 5 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-23 16:58:28.757
+!MESSAGE Documentation loaded successfully. 2 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-23 16:58:28.762
+!MESSAGE Documentation loaded and registered in 6 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-23 16:58:28.778
+!MESSAGE Documentation loaded successfully. 4 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-23 16:58:28.795
+!MESSAGE Documentation loaded and registered in 17 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-23 16:58:28.803
+!MESSAGE Documentation loaded successfully. 2 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-23 16:58:28.807
+!MESSAGE Documentation loaded and registered in 4 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-23 16:58:28.824
+!MESSAGE Documentation loaded successfully. 10 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-23 16:58:28.830
+!MESSAGE Documentation loaded and registered in 10 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-23 16:58:28.853
+!MESSAGE Documentation loaded successfully. 3 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-23 16:58:28.858
+!MESSAGE Documentation loaded and registered in 21 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-23 16:58:28.875
+!MESSAGE Documentation loaded successfully. 1 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-23 16:58:28.878
+!MESSAGE Documentation loaded and registered in 4 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-23 16:58:28.888
+!MESSAGE Documentation loaded successfully. 1 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-23 16:58:28.893
+!MESSAGE Documentation loaded and registered in 5 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-23 16:58:28.906
+!MESSAGE Documentation loaded successfully. 5 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-23 16:58:28.911
+!MESSAGE Documentation loaded and registered in 6 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-23 16:58:28.924
+!MESSAGE Documentation loaded successfully. 1 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-23 16:58:28.928
+!MESSAGE Documentation loaded and registered in 8 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-23 16:58:28.934
+!MESSAGE Documentation loaded successfully. 1 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-23 16:58:28.939
+!MESSAGE Documentation loaded and registered in 4 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-23 16:58:28.947
+!MESSAGE Documentation loaded successfully. 2 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-23 16:58:28.956
+!MESSAGE Documentation loaded and registered in 10 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-23 16:58:28.964
+!MESSAGE Documentation loaded successfully. 3 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-23 16:58:28.971
+!MESSAGE Documentation loaded and registered in 7 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-23 16:58:28.985
+!MESSAGE Documentation loaded successfully. 2 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-23 16:58:28.992
+!MESSAGE Documentation loaded and registered in 11 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-23 16:58:29.059
+!MESSAGE Documentation loaded successfully. 10 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-23 16:58:29.066
+!MESSAGE Documentation loaded and registered in 13 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-23 16:58:29.076
+!MESSAGE Documentation loaded successfully. 2 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-23 16:58:29.080
+!MESSAGE Documentation loaded and registered in 5 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-23 16:58:29.330
+!MESSAGE Documentation loaded successfully. 5 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-23 16:58:29.334
+!MESSAGE Documentation loaded and registered in 4 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-23 16:58:29.344
+!MESSAGE Documentation loaded successfully. 0 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-23 16:58:29.349
+!MESSAGE Documentation loaded and registered in 5 ms.
+
+!ENTRY org.eclipse.jface 2 0 2021-04-23 16:58:29.471
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-04-23 16:58:29.471
+!MESSAGE A conflict occurred for ALT+SHIFT+A:
+Binding(ALT+SHIFT+A,
+	ParameterizedCommand(Command(com.servoy.eclipse.ui.StartSmartClient,Launch SmartClient,
+		Launch SmartClient,
+		Category(com.servoy.eclipse.ui,Servoy,Other Servoy Commands,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@80be970c,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+SHIFT+A,
+	ParameterizedCommand(Command(com.servoy.eclipse.ui.StartNGDesktopClient,Launch NGDesktopClient,
+		Launch NGDesktop,
+		Category(com.servoy.eclipse.ui,Servoy,Other Servoy Commands,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@91afe16b,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-04-23 16:58:29.471
+!MESSAGE A conflict occurred for ALT+SHIFT+M:
+Binding(ALT+SHIFT+M,
+	ParameterizedCommand(Command(com.servoy.eclipse.ui.StartMobileClient,Launch Mobile Client,
+		Launch Mobile Client,
+		Category(com.servoy.eclipse.ui,Servoy,Other Servoy Commands,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@de85a28c,
+		[Parameter(com.servoy.eclipse.mobile.launch.config,com.servoy.eclipse.mobile.launch.config,null,true)],,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+SHIFT+M,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.extract.method,Extract Method,
+		Extract a set of statements or an expression into a new method and use the new method,
+		Category(org.eclipse.jdt.ui.category.refactoring,Refactor - Java,Java Refactoring Actions,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@7b944cf0,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-04-23 16:58:29.471
+!MESSAGE A conflict occurred for F4:
+Binding(F4,
+	ParameterizedCommand(Command(com.servoy.eclipse.ui.OpenFormHierarchyAction,Open Form Hierarchy,
+		Open Form Hierarchy,
+		Category(com.servoy.eclipse.ui,Servoy,Other Servoy Commands,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@fad3be8a,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(F4,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.open.type.hierarchy,Open Type Hierarchy,
+		Open a type hierarchy on the selected element,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@7d48afbf,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-04-23 16:58:40.794
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Ryan'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-23 16:58:57.105
+!MESSAGE Time taken to read in the solution HospitalApp: 88, thread: ModalContext
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-23 16:58:59.322
+!MESSAGE Time taken to read in the solution HospitalApp: 12, thread: Worker-14: Decoration Calculation
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-23 16:58:59.946
+!MESSAGE Time taken to read in the solution svyNavigation: 617, thread: Worker-11: <unnamed job: com.servoy.eclipse.core.util.RunInWorkspaceJob>
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-23 16:59:03.224
+!MESSAGE Time taken to read in the solution HospitalApp: 7, thread: Worker-0: <unnamed job: com.servoy.eclipse.core.util.RunInWorkspaceJob>
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-23 16:59:03.429
+!MESSAGE Time taken to read in the solution svySearch: 199, thread: Worker-0: <unnamed job: com.servoy.eclipse.core.util.RunInWorkspaceJob>
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-23 16:59:03.559
+!MESSAGE Time taken to read in the solution svyNavigation: 124, thread: Worker-0: <unnamed job: com.servoy.eclipse.core.util.RunInWorkspaceJob>
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-23 16:59:08.241
+!MESSAGE Time taken to read in the solution HospitalApp: 7, thread: main
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-23 16:59:08.597
+!MESSAGE Time taken to read in the solution svySecurity: 350, thread: Worker-12: <unnamed job: com.servoy.eclipse.core.util.RunInWorkspaceJob>
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-23 16:59:08.676
+!MESSAGE Time taken to read in the solution svySearch: 74, thread: Worker-12: <unnamed job: com.servoy.eclipse.core.util.RunInWorkspaceJob>
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-23 16:59:08.738
+!MESSAGE Time taken to read in the solution svyNavigation: 57, thread: Worker-12: <unnamed job: com.servoy.eclipse.core.util.RunInWorkspaceJob>
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-23 16:59:14.257
+!MESSAGE Time taken to read in the solution HospitalApp: 394, thread: Worker-3: Decoration Calculation
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-23 16:59:14.423
+!MESSAGE Time taken to read in the solution svySecurity: 162, thread: Worker-3: Decoration Calculation
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-23 16:59:14.469
+!MESSAGE Time taken to read in the solution svySearch: 41, thread: Worker-1: <unnamed job: com.servoy.eclipse.core.util.RunInWorkspaceJob>
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-23 16:59:14.525
+!MESSAGE Time taken to read in the solution svyNavigation: 52, thread: Worker-1: <unnamed job: com.servoy.eclipse.core.util.RunInWorkspaceJob>
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-23 16:59:14.578
+!MESSAGE Time taken to read in the solution svyNavigationUX: 48, thread: main
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-23 16:59:17.628
+!MESSAGE Time taken to read in the solution HospitalApp: 83, thread: Worker-1: <unnamed job: com.servoy.eclipse.core.util.RunInWorkspaceJob>
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-23 16:59:17.667
+!MESSAGE Time taken to read in the solution svyProperties: 32, thread: Worker-1: <unnamed job: com.servoy.eclipse.core.util.RunInWorkspaceJob>
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-23 16:59:17.831
+!MESSAGE Time taken to read in the solution svySecurity: 159, thread: Worker-1: <unnamed job: com.servoy.eclipse.core.util.RunInWorkspaceJob>
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-23 16:59:17.860
+!MESSAGE Time taken to read in the solution svySearch: 24, thread: Worker-1: <unnamed job: com.servoy.eclipse.core.util.RunInWorkspaceJob>
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-23 16:59:17.891
+!MESSAGE Time taken to read in the solution svyNavigation: 27, thread: Worker-1: <unnamed job: com.servoy.eclipse.core.util.RunInWorkspaceJob>
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-23 16:59:17.931
+!MESSAGE Time taken to read in the solution svyNavigationUX: 37, thread: Worker-1: <unnamed job: com.servoy.eclipse.core.util.RunInWorkspaceJob>
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-23 16:59:21.745
+!MESSAGE Time taken to read in the solution HospitalApp: 5, thread: Worker-1: <unnamed job: com.servoy.eclipse.core.util.RunInWorkspaceJob>
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-23 16:59:21.783
+!MESSAGE Time taken to read in the solution svyProperties: 32, thread: Worker-1: <unnamed job: com.servoy.eclipse.core.util.RunInWorkspaceJob>
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-23 16:59:22.130
+!MESSAGE Time taken to read in the solution svyUtils: 341, thread: main
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-23 16:59:22.237
+!MESSAGE Time taken to read in the solution svySecurity: 101, thread: main
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-23 16:59:22.278
+!MESSAGE Time taken to read in the solution svySearch: 36, thread: main
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-23 16:59:22.306
+!MESSAGE Time taken to read in the solution svyNavigation: 24, thread: main
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-23 16:59:22.370
+!MESSAGE Time taken to read in the solution svyNavigationUX: 59, thread: Worker-1: <unnamed job: com.servoy.eclipse.core.util.RunInWorkspaceJob>
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-23 17:02:46.340
+!MESSAGE Browser url for editor: http://localhost:8183/rfb/angular/index.html?s=HospitalApp&l=csspos&f=add_doctor_form&w=1195.0&h=941.0&clientnr=1&c_clientnr=2&hd=true
+
+!ENTRY org.eclipse.ui 4 4 2021-04-23 17:02:51.604
+!MESSAGE Unable to associate action set with part: org.eclipse.dltk.javascript.ui.editor.JavascriptEditor. Action set org.eclipse.debug.ui.launchActionSet not found.

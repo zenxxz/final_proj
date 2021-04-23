@@ -1,0 +1,16 @@
+[
+{
+encapsulation:0,
+mimeType:"text/css",
+name:"custom_servoy_theme_properties.less",
+typeid:37,
+uuid:"513CC8E4-643C-41EC-A558-7EEC5EAEDD6E"
+},
+{
+encapsulation:0,
+mimeType:"text/css",
+name:"HospitalApp.less",
+typeid:37,
+uuid:"85EC14AC-CD2C-4A29-8195-F4F0A546AA13"
+}
+]

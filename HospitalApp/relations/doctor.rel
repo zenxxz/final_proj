@@ -1,0 +1,10 @@
+allowCreationRelatedRecords:true,
+foreignDataSource:"db:/new_postgresql/doctor",
+items:[
+{foreignColumnName:"doctorid",primaryDataProviderID:"doctorid",typeid:23,uuid:"6F3D5A26-FEF2-46CD-B15B-7F5D97EF3737"}
+],
+joinType:1,
+name:"doctor",
+primaryDataSource:"db:/new_postgresql/patient",
+typeid:22,
+uuid:"F7BCFDC3-66EA-4D9E-A6F2-AEFAB88C8F1C"
